@@ -1,6 +1,6 @@
-name: 'AWS CLI Action'
+name: 'AWS CLI Fork'
 description: 'GitHub Action for AWS CLI_1'
-author: ItsKarma / jdmevo123
+author: jdmevo123
 branding:
   icon: 'cloud'
   color: 'orange'
